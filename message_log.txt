@@ -1,0 +1,2 @@
+2024-08-17 18:43:19,237 - Message sent to Nouaman (+212669611393) using message.txt
+2024-08-17 18:43:54,743 - Message sent to Digita (+ 212606729210) using message3.txt
